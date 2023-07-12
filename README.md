@@ -4,7 +4,7 @@ Introduction to Probabilistic Programming using PyMC.
 Relevant links:
 - [PyMC](https://github.com/pymc-devs/pymc)
 - [Probabilistic Programming for Hackers book](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-- 
+- [Link to presentation](https://docs.google.com/presentation/d/1xVxOOP0FoAsC0eW6fBo7F-9tVroh4H22r__BcUFEYpg/edit?usp=sharing)
 
 
 
