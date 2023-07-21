@@ -1,4 +1,4 @@
-# PyDelhi July 2023 [Canceled]
+# PyDelhi July 2023
 Introduction to Probabilistic Programming using PyMC.
 
 To set up env you can use:
